@@ -8,7 +8,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Click on the dice to roll them'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
